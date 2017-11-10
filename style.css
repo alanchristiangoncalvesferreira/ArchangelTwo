@@ -691,10 +691,3 @@ top: 389px;
 background-repeat: no-repeat;
 background-size: 101%;}
 
-#controler{background-image:url(image/controler.png); background-repeat:no-repeat; 
-width: 373px;
-height: 208px;
-float: right;
-position: absolute;
-margin: -65px 0 0 411px;
-}

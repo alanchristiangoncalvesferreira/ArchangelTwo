@@ -77,6 +77,15 @@
           </section>
           <footer>
           <style>
+#controler{background-image:url(image/controler.png); background-repeat:no-repeat; 
+width: 373px;
+height: 208px;
+float: right;
+position: absolute;
+margin: -65px 0 0 411px;
+z-index:5;
+}
+
           #controler ul{width: 132px;
 height: 123px;
 
@@ -94,14 +103,105 @@ list-style: none;}
    #controler li:hover{
 	   
 	   background-position: 1px -6px;
-	   }      
+	   }    
+	   
+	   #privabntfo {
+    max-width: 33px;
+    max-height: 28px;
+    width: 33px;
+    height: 28px;
+    margin-left: 146px;
+    margin-top: 176px;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    position: absolute;
+}
+
+#priva {
+    max-width: 33px;
+    max-height: 28px;
+    width: 33px;
+    height: 28px;
+    position: absolute;
+    margin-left: 146px;
+    margin-top: 177px;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+}
+.bntcima {
+    z-index: 12;
+}  
+.bntbaixo {
+    z-index: 10;
+	
+}
+
+#mapa {
+    margin-top: 78px;
+    position: absolute;
+    left: 160px;
+    font-size: 78.6%;
+    font-weight: bold;
+    color: #FFF;
+    display: inline-block;
+    height: 63px;
+    width: 386px;
+    border-top: 1px solid #040563;
+    background: none repeat scroll 0% 0% #00CAC2;
+    overflow: hidden;
+	z-index:4;
+}
+#mapa ul {
+    width: 100%;
+    max-width: 1233px;
+    height: 70px;
+    margin: 0px !important;
+    float: right;
+    position: absolute;
+}
+
+#mapa li {
+	list-style: none;
+    float: left;
+    font-size: 26px;
+    margin: 3px 0px 0px 2px;
+    height: 63px;
+    width: 37px;
+    word-break: break-all;
+    text-align: center;
+}		  
+#bntFp {
+    background:url(image/Fbnt.png) no-repeat;
+    height: 63px;
+    width: 40px;
+    float: left;
+    position: relative;
+    box-shadow: -3px -3px 1px black;
+}
           </style>
             <div id="controler"> 
             <ul>
             <li></li><li></li>
             <li></li><li></li>
             </ul>
+            <div id="privabntfo" class="bntcima"> <a class=" icon-police" id="police"> </a> </div>
+            <div id="priva" class="bntbaixo"> <a id="police2" class="icon-police"> </a> </div>
             </div>
+            <div id="mapa" style="width: 380px;">
+  
+  <ul style="
+top: 1px;left:29px;">
+  
+    <li>  </li>
+    <li> <a  class=" icon-copyright"></a> </li>
+    <li>  </li>
+    
+  </ul>
+  <div id="bntFp"> 
+    </div>
+</div>
           </footer>
         </div>
 </body>

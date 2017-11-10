@@ -155,3 +155,34 @@ function caller(n){
 			  
 		
 		}
+		
+		
+		$(document).ready(function(){
+$('#privabntfo').click(function() {
+
+$('#privabntfo').removeClass('bntcima').addClass('bntbaixo');
+$('#priva').removeClass('bntbaixo').addClass('bntcima'); 
+
+$("#mapa").animate({
+width: "320px",
+left: "471px" }, 500);
+});
+ 
+});
+
+
+
+
+$(document).ready(function(){
+
+$('#priva').click(function() {
+$('#priva').removeClass('bntcima').addClass('bntbaixo');
+$('#privabntfo').removeClass('bntbaixo').addClass('bntcima');
+
+$("#mapa").animate({
+width: "380px",
+left: "160px" }, 500);
+
+
+
+}); });
