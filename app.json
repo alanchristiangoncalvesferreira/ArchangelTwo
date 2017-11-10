@@ -1,0 +1,16 @@
+{
+  "name": "App_Partnershipmember",
+  "description": "App para o Facebook ",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
