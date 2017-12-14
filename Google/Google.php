@@ -6,10 +6,9 @@
   
   <li><a href="    http://alanchristiangoncalvesferreira.blogspot.com.br/" target="_blank" ><img src="image/perfil-AlanGoogle.png" /> </a> <a href="#" class="left"><div id="bntop"></div></a> </li>
   
-  <li><a href="https://www.flickr.com/photos/alanchristiangoncalvesferreira/" target="_blank" ><img src="image/perfil-Alanyahoo.png" /> </a> <a href="#" class="left"><div id="bntop"></div></a> </li>
+
   
   
-    <li><a href="https://www.flickr.com/people/alanchristiangoncalvesferreira/
-" target="_blank" ><img src="image/perfil-Alanyahoo.png" /> </a> <a href="#" class="left"><div id="bntop"></div></a> </li>
+ 
     </ul>
     
