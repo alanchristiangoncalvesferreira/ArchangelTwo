@@ -1,14 +1,14 @@
  <div id="partinership">
   <a href="Curriculum.pdf" target="_black"><button class="icon1" ></button></a> 
   
-   <a href="https://www.facebook.com/arianarockefeller/?fref=ts" target="_black"> <button class="icon2" ></button></a>
+   <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"> <button class="icon2" ></button></a>
    <a href="https://www.facebook.com/rockefellercenternyc" target="_black"><button class="icon3" ></button></a>
-    <a href="https://www.facebook.com/OakleyBrasil/" target="_black"><button class="icon4" ></button></a>
+    <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon4" ></button></a>
     <a href="https://www.facebook.com/MSFTBrasil/" target="_black"><button class="icon5" ></button></a>
     
-    <a href="https://www.facebook.com/chase/" target="_black"><button class="icon6" ></button></a>
-    <a href="https://www.facebook.com/HospitalAlbertEinstein/" target="_black"><button class="icon7" ></button></a>
-    <a href="https://www.facebook.com/HospitalAlbertEinstein/" target="_black"><button class="icon8" ></button></a>
+    <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon6" ></button></a>
+    <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon7" ></button></a>
+    <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon8" ></button></a>
     <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon9" ></button></a>
     <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon10" ></button></a>
     <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon11" ></button></a>
