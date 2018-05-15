@@ -1,10 +1,10 @@
  <div id="partinership">
   <a href="Curriculum.pdf" target="_black"><button class="icon1" ></button></a> 
   
-   <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"> <button class="icon2" ></button></a>
-   <a href="https://www.facebook.com/rockefellercenternyc" target="_black"><button class="icon3" ></button></a>
+   <a href="https://www.facebook.com/rockefellercenternyc" target="_black"> <button class="icon2" ></button></a>
+   <a href="https://www.facebook.com/MSFTBrasil/" target="_black"><button class="icon3" ></button></a>
     <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon4" ></button></a>
-    <a href="https://www.facebook.com/MSFTBrasil/" target="_black"><button class="icon5" ></button></a>
+    <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon5" ></button></a>
     
     <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon6" ></button></a>
     <a href="https://www.facebook.com/AlanChristianGoncalvesFerreira" target="_black"><button class="icon7" ></button></a>

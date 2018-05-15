@@ -180,6 +180,8 @@ list-style: none;}
     position: relative;
     box-shadow: -3px -3px 1px black;
 }
+#direitos{ text-decoration:none;}
+
           </style>
             <div id="controler"> 
             <ul>
@@ -195,7 +197,7 @@ list-style: none;}
 top: 1px;left:29px;">
   
     <li>  </li>
-    <li> <a  class=" icon-copyright"></a> </li>
+    <li> <a href="javascript:caller(2)" id="direitos" class=" icon-copyright"></a> </li>
     <li>  </li>
     
   </ul>

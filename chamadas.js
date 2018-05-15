@@ -85,18 +85,7 @@ dataType: 'html',
 });
 
 
-$(window).load(function() { 
- $.ajax({ 
-type: "GET", 
-url: "padrinhos/padrinhos.php",
-context: document.body,
-dataType: 'html',
- success: function(openHtml){
- $('#main').html(openHtml);
- }   
-}); 
 
-});
 
 
 
@@ -105,6 +94,7 @@ function caller(n){
 	switch(n){
 	case 0: t="home.php " ;break;
 	case 1: t=" partnership.php" ;break;
+	case 2: t="direitosautorais.php" ;break;
 	
 	}
 	
@@ -165,7 +155,7 @@ $('#priva').removeClass('bntbaixo').addClass('bntcima');
 
 $("#mapa").animate({
 width: "320px",
-left: "471px" }, 500);
+left: "501px" }, 500);
 });
  
 });
