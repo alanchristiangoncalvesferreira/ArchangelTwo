@@ -3,7 +3,7 @@
         <head>
         <meta charset="utf-8">
         <meta name="google-site-verification" content="xQ26Pgg3-ISV2IHaPsyZX2v3dXkLMzpUXH5Imz80aw8" />
-        <title>PartnershipMembers</title>
+        <title>Curriculum Alan Christian </title>
         <link href="style.css" rel="stylesheet" type="text/css" media="all">
         <link href="fontello.css" rel="stylesheet" type="text/css" media="screen">
 <link href="fontello-codes.css" rel="stylesheet" type="text/css" media="screen">
@@ -30,13 +30,7 @@
         <div id="wrap">
       
           <header >
-        <object width="300"height="50">
-<paramname="src"value="LINKHERE">
-<paramname="autoplay"value="false">
-<paramname="controller"value="true">
-<paramname="bgcolor"value="#FFFFFF">
-<embed src="musica.mp3" autostart="false" loop="false" width="300" height="50" controller="true" bgcolor="#FFFFFF">
-</object>
+  
             <div id="masterpicture">
               <ul>
                 <li class="usermaster" alt="Facebook Alan Christian Gonçalves Ferreira" id="bntpiramide1"><a href="#"alt="Facebook Alan Christian Gonçalves Ferreira" ></a></li>

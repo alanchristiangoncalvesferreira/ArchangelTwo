@@ -89,8 +89,10 @@ top: 0px;}
 	position: relative;
 	list-style: none;
 	height: 30px;
+	cursor:pointer;
 }
 #masterpicture li:hover {
+	cursor:pointer;
 }
   #FotoPerfil{left: 72px;
 position: absolute;
