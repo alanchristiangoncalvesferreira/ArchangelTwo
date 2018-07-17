@@ -189,22 +189,60 @@ list-style: none;}
     left: 301px;
     top: 97px;}
 #menuitop	{position: absolute;
-    top: 3px;}
+    top: 3px; cursor:pointer;}
 #menuihover{position: absolute;
     top: 3px;
+	cursor:pointer;
     }	
 .top{z-index:0;}
 .down{z-index:-1;}	
+#abamenu{ 
+    width: 200px;
+    height: 269px;
+    background: rgba(0, 204, 255, 0.87);
+    position: absolute;
+    left: 525px;
+    top: 635px;
+    
+}
+#abamenu ul{list-style: none;
+    margin: 0 0 0 -40px;
+    display: block;}
+#abamenu li {
+	width: 200px;
+    height: 38px;
+    text-align: center;
+    font-size: 20px;
+    font-family: tahoma;
+	border-bottom: 1px solid #0774a7;
+	}	
+#abamenu li:hover{background:rgba(255, 0, 0, 0.87);}	
+	
+.abamenutop{z-index:6;}
+.abamenuhover{z-index:-1;}
+
           </style>
+          <div id="abamenu" class="abamenuhover">
+          <ul>
+          <li>Menu 1</li>
+          <li>Menu 1</li>
+          <li>Menu 1</li>
+          <li>Menu 1</li>
+          <li>Menu 1</li>
+          </ul>
+          </div>
             <div id="controler"> 
             <ul>
             <li></li><li></li>
             <li></li><li></li>
             </ul>
             <div id="menuiniciar">
-           <img src="image/menuiniciarbasic.png"  id="menuitop" class="top"/>
-           <img src="image/menuiniciarbasichover.png"  id="menuihover" class="down"/>
-           
+            <div id="menuitop" class="top" >
+           <img src="image/menuiniciarbasic.png"  />
+           </div>
+           <div id="menuihover" class="down">
+           <img src="image/menuiniciarbasichover.png"  />
+           </div>
             </div>
             
             
