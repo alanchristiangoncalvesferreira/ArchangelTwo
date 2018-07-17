@@ -176,3 +176,26 @@ left: "160px" }, 500);
 
 
 }); });
+
+					$(document).ready(function(){
+$('#menuitop').click(function() {
+
+$('#menuitop').removeClass('top').addClass('down');
+$('#menuihover').removeClass('down').addClass('top'); 
+
+
+});
+ 
+}); 
+
+
+		$(document).ready(function(){
+$('#menuihover').click(function() {
+
+$('#menuihover').removeClass('top').addClass('down');
+$('#menuitop').removeClass('down').addClass('top'); 
+
+
+});
+ 
+});

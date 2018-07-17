@@ -47,7 +47,7 @@
            
               <ul>
                 <li id="bntindex" onClick="ft();"><a href="javascript:caller(0)" alt="Home" ><img src="image/bnttela.png" id="bntindeximg"/></a></li>
-                <li  id="partnership"><a href="javascript:caller(1)" alt="partnership">Partnership</a></li>
+                <li  id="partnership"><a href="javascript:caller(1)" alt="partnership">Partnership |</a></li>
                 <li  id="partnership"><a href="Curriculum.pdf" target="_blank" alt="currículum">Currículum</a></li>
               </ul>
             </nav>
@@ -183,13 +183,31 @@ list-style: none;}
     box-shadow: -3px -3px 1px black;
 }
 #direitos{ text-decoration:none;}
-
+#menuiniciar{width: 54px;
+    height: 50px;
+    position: absolute;
+    left: 301px;
+    top: 97px;}
+#menuitop	{position: absolute;
+    top: 3px;}
+#menuihover{position: absolute;
+    top: 3px;
+    }	
+.top{z-index:0;}
+.down{z-index:-1;}	
           </style>
             <div id="controler"> 
             <ul>
             <li></li><li></li>
             <li></li><li></li>
             </ul>
+            <div id="menuiniciar">
+           <img src="image/menuiniciarbasic.png"  id="menuitop" class="top"/>
+           <img src="image/menuiniciarbasichover.png"  id="menuihover" class="down"/>
+           
+            </div>
+            
+            
             <div id="privabntfo" class="bntcima"> <a class=" icon-police" id="police"> </a> </div>
             <div id="priva" class="bntbaixo"> <a id="police2" class="icon-police"> </a> </div>
             </div>
