@@ -10,8 +10,8 @@
 
 <figcaption>Anihu</figcaption>
 </figure>
-<p>Meu nome é Alan Christian Gonçalves Ferreira ,sou designer e programador front end desde 2010<br/>
- quando comecei minha carreira . Essa página foi criada como blog pessoal e profissional e esta destinada a oferecer o melhor de mim e do meu trabalho .
+<p>Meu nome é Alan Christian Gonçalves Ferreira ,sou designer e programador front end desde 2010 quando comecei minha carreira .</br>
+Essa página foi criada como blog pessoal e profissional e esta destinada a oferecer o melhor de mim e do meu trabalho .
 </p>
 </article>
 
