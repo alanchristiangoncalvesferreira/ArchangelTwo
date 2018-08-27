@@ -95,6 +95,7 @@ function caller(n){
 	case 0: t="home.php " ;break;
 	case 1: t=" partnership.php" ;break;
 	case 2: t="direitosautorais.php" ;break;
+	case 3: t="hashtag.php" ;break;
 	
 	}
 	
