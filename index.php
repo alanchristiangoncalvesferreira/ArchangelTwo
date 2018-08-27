@@ -217,7 +217,8 @@ list-style: none;}
 	border-bottom: 1px solid #0774a7;
 	}	
 #abamenu li:hover{background:rgba(255, 0, 0, 0.87);}	
-	
+#abamenu a{ color: #010a94;
+    text-decoration: none;}	
 .abamenutop{z-index:6;}
 .abamenuhover{z-index:-1;}
 
@@ -225,12 +226,12 @@ list-style: none;}
           <div id="abamenu" class="abamenuhover">
           <ul>
           <li><a href="javascript:caller(3)" >HASHTAG</a></li>
-          <li>Menu 1</li>
-          <li>Menu 1</li>
-          <li>Menu 1</li>
-          <li>Menu 1</li>
-          <li>Menu 1</li>
-          <li>Menu 1</li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
           </ul>
           </div>
             <div id="controler"> 
