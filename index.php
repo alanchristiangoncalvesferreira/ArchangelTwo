@@ -1,6 +1,16 @@
 <!doctype html>
 <html>
         <head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77245717-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-77245717-1');
+</script>
+
         <meta charset="utf-8">
         <meta name="google-site-verification" content="xQ26Pgg3-ISV2IHaPsyZX2v3dXkLMzpUXH5Imz80aw8" />
         <title>Curriculum Alan Christian </title>
