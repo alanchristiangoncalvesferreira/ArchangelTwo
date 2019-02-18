@@ -1,0 +1,3 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="alanchristiangoncalvesferreira"><a class="LI-simple-link" href='https://br.linkedin.com/in/alanchristiangoncalvesferreira?trk=profile-badge'>Alan Christian Gonçalves Ferreira</a></div>

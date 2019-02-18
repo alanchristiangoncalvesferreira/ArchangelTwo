@@ -179,6 +179,8 @@ section {
 	background-image: url(image/headersection.png);
 	background-repeat: no-repeat;
 	background-position: 141px -3px;
+	    z-index: 10;
+    position: relative;
 }
 footer {
 	height: 144px;
@@ -558,6 +560,9 @@ clear: both;margin: 13px;
 text-align: justify;}
 
 #intro {
+	top: -33px;
+    position: relative;
+	z-index:7;
 }
 .scrollbar.vertical {
 	width: 18px;
@@ -673,23 +678,28 @@ text-align: justify;}
         #olho1{ width: 235px;
 height: 204px;
 position: absolute;
-z-index: 3; background-image:url(image/backyeas1.png); background-repeat:no-repeat;left: 576px;
-top: 394px; background-size: 66%;}
+z-index: 3; background-image:url(image/backyeas1.png); background-repeat:no-repeat; left: 464px;
+    top: 94px; background-size: 66%;}
 
 
- #olho1:hover{background-image:url(image/backyeas1houver.png); background-repeat:no-repeat;left: 576px;
-top: 394px; background-size: 66%;}
+ #olho1:hover{background-image:url(image/backyeas1houver.png); background-repeat:no-repeat;left: 464px;
+    top: 94px; background-size: 66%;}
  #backgroundolhomaster{width: 572px;
-left: 212px;
+left: 100px;
 position: absolute;
 background-image: url(image/backgroundAlanChristianGon%C3%A7alvesFerreira.png);
 background-repeat: no-repeat;
 background-size: 101%;
 z-index: 1;
 height: 395px;
-top: 389px;
+top: 90px;
 }
 #backgroundolhomaster:hover{background-image: url(image/backgroundAlanChristianGon%C3%A7alvesFerreirahover.png);
 background-repeat: no-repeat;
 background-size: 101%;}
 
+.titulodois{ font-size: 28px;
+    color: red;
+    font-family: tahoma;
+    text-align: center;
+    border-bottom: 1px solid red;}

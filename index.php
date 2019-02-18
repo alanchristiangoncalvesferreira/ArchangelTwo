@@ -37,7 +37,22 @@
         </head>
 
         <body>
+          <script>
+			
+
+			</script>
+         <div id="loadapre">
+            
+             <div id="olho1"></div>
+       
+             
+             <div id="backgroundolhomaster" onMouseOver="olho();"></div>
+               </div>
+             <style>#loadapre{width:785px; height:700px; background:black;
+	position: fixed;
+    z-index:1000;top:1px; }  </style>
         <div id="wrap">
+        
       
           <header >
   
@@ -78,17 +93,14 @@
           <section>
             <div id="top"></div>
             <div id="intro" >
-            
-             <div id="olho1"></div>
-       
-             
-             <div id="backgroundolhomaster" onMouseOver="olho();"></div>
-               
-             
+          
+          
             </div>
           </section>
           <footer>
           <style>
+		  
+		
 #controler{background-image:url(image/controler.png); background-repeat:no-repeat; 
 width: 373px;
 height: 208px;

@@ -1,11 +1,15 @@
-window.onload=function(){
-	var a = document.getElementById('bntpiramide3');
+//função para retirada da imagem de log do usuário 
+window.onload=function(){ //carrega a função quando a janela for aberta
+   //variáveis chamada dos botões  
+	var a = document.getElementById('bntpiramide3'); 
 	var b=document.getElementById('bntpiramide2');
 	var c=document.getElementById('bntpiramide1');
+	//Quando o botão a for clicado , faz a chamada da função geral() , que chama o arquivo home.php
 	a.onclick=function(){
 		geral();
       return false;
 	}
+	//Quando o botão a,b,c for clicado remove a imagem de log do perfil 
 	a.onclick=function(){
 		document.getElementById('FotoPerfil').querySelector('img').remove();
 		}
@@ -19,6 +23,7 @@ window.onload=function(){
 			
 }
  
+ //Função geral é a função de chamada do arquivo home .php via HttpRequest
 geral = function(){
 	var chamada = new XMLHttpRequest();
 	chamada.open('GET', 'home.php', true);
@@ -33,6 +38,8 @@ geral = function(){
 	
 	
 };
+
+//Funções de chamada de arquivo via Ajax 
 
 $(document).ready(function(){
  $("#bntpiramide3").click(function(){ 
@@ -96,6 +103,11 @@ function caller(n){
 	case 1: t=" partnership.php" ;break;
 	case 2: t="direitosautorais.php" ;break;
 	case 3: t="hashtag.php" ;break;
+	case 4: t="twitter.php" ;break;
+	case 5: t="perfil.php" ;break;
+	case 6: t="videos.php" ;break;
+	case 7: t="linkedin.php" ;break;
+	case 8: t="graduacao.php" ;break;
 	
 	}
 	
@@ -104,7 +116,7 @@ function caller(n){
 	  httpreq.onreadystatechange=function(){
 		  
 		
-		if(httpreq.readyState==3){
+		if(httpreq.readyState==4){
 			  document.getElementById('intro').innerHTML=httpreq.responseText;
 		  
 		   
@@ -202,3 +214,39 @@ $('#abamenu').removeClass('abamenutop').addClass('abamenuhover');
 });
  
 });
+
+
+//script de loading da página
+
+window.addEventListener("load", function(){
+	
+	setTimeout(function () {
+            
+    var loadapre= document.getElementById("loadapre");
+	document.body.removeChild(loadapre);
+	    }, 8000);
+		
+		
+	
+		
+
+	});
+
+//script de chamada da home na abertura do sistema
+  window.addEventListener("load", function(){
+	  
+	var chamada = new XMLHttpRequest();
+	chamada.open('GET', 'home.php', true);
+	chamada.send(null);
+	chamada.onreadystatechange = function(){
+
+		if ( this.readyState == 4 && this.status == 200 ) {
+        var div = document.getElementById('intro');
+         div.innerHTML = this.responseText;
+		 document.getElementById('FotoPerfil').innerHTML="<img src=image/perfil-Alan.png />";
+		}
+	};
+		
+	  
+	  
+	  }); 
