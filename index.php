@@ -225,7 +225,7 @@ list-style: none;}
     position: absolute;
     left: 525px;
     top: 635px;
-	z-index: 20;
+	
     
 }
 #abamenu ul{list-style: none;
@@ -242,7 +242,7 @@ list-style: none;}
 #abamenu li:hover{background:rgba(255, 0, 0, 0.87);}	
 #abamenu a{ color: #010a94;
     text-decoration: none;}	
-.abamenutop{z-index:6;}
+.abamenutop{z-index:20;}
 .abamenuhover{z-index:-1;}
 
           </style>
