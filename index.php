@@ -39,7 +39,7 @@
         <body>
           <script>
 			
-
+ 
 			</script>
          <div id="loadapre">
             
@@ -92,7 +92,7 @@
           </aside>
           <section>
             <div id="top"></div>
-            <div id="intro" >
+            <div id="intro" onMouseOver="sistema()">
           
           
             </div>
@@ -220,11 +220,11 @@ list-style: none;}
 .down{z-index:-1;}	
 #abamenu{ 
     width: 200px;
-    height: 269px;
+    height: 468px;
     background: rgba(0, 204, 255, 0.87);
     position: absolute;
     left: 525px;
-    top: 635px;
+    top: 461px;
 	
     
 }
@@ -242,19 +242,24 @@ list-style: none;}
 #abamenu li:hover{background:rgba(255, 0, 0, 0.87);}	
 #abamenu a{ color: #010a94;
     text-decoration: none;}	
+#abamenu p{    float: left;
+    display: block;
+    width: 150px;
+    height: 38px;
+    margin: 0;}	
 .abamenutop{z-index:20;}
 .abamenuhover{z-index:-1;}
-
+#iconesmenu{width:50px; height:38px;background: rgba(0, 51, 255, 0.55);font-size: 27px;float: left;}
           </style>
           <div id="abamenu" class="abamenuhover">
           <ul>
-          <li><a href="javascript:caller(3)" >HASHTAG</a></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li><a href="javascript:caller(3)" ><div id="iconesmenu">#</div><p>HASHTAG</p></a></li>
+          <li><div id="iconesmenu"></div><p></p></a></li>
+          <li><div id="iconesmenu"></div><p></p></a></li>
+          <li><div id="iconesmenu"></div><p></p></a></li>
+          <li><div id="iconesmenu"></div><p></p></a></li>
+          <li><div id="iconesmenu"></div><p></p></a></li>
+          <li><div id="iconesmenu"></div><p></p></a></li>
           </ul>
           </div>
             <div id="controler"> 

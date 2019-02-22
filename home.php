@@ -1,14 +1,15 @@
 
-<div id="home">
+<div id="home" onLoad="datacao()">
+
   <ul>
     <li ><a href="javascript:caller(8)" class="icon-graduation-cap" alt="Graduação">
       <p id="tituloicones">Graduação</p>
       </a></li>
+       <li ><a href="javascript:caller(5)" class="icon-user-md" alt="Perfil">
+      <p id="tituloicones">Perfil</p>
+      </a></li>
     <li ><a href="javascript:caller(6)" class="icon-video" alt="Vídeos">
       <p id="tituloicones">Vídeos</p>
-      </a></li>
-    <li ><a href="javascript:caller(5)" class="icon-user-md" alt="Perfil">
-      <p id="tituloicones">Perfil</p>
       </a></li>
     <li><a href="javascript:caller(7)" class="icon-linkedin-4" alt="Linkedin">
     <p id="tituloicones">Linkedin</p>
@@ -21,6 +22,9 @@
     </a></li>
     <li><a href="https://alanchristiangoncalvesferreiraa.tumblr.com/" target="_blank" class="icon-tumblr-1" alt="Tumblr">
     <p id="tituloicones">Tumblr</p>
+    </a></li>
+    <li><a href="https://alanchristiangoncalvesferreiraa.tumblr.com/" target="_blank" class="icon-blogger-1" alt="Blogger">
+    <p id="tituloicones">Blogger</p>
     </a></li>
   </ul>
 </div>
