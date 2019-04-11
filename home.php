@@ -17,13 +17,16 @@
     <li><a href="javascript:caller(4)" class="icon-twitter-4" alt="Twitter">
     <p id="tituloicones">Twitter</p>
     </a></li>
+     <li><a href="https://vk.com/alanchristiangoncalvesferreira" class="icon-vk" alt="VK">
+    <p id="tituloicones">VK</p>
+    </a></li>
     <li><a href="https://github.com/AlanChristianGoncalvesFerreira" target="_blank" class="icon-github-2" alt="Github">
     <p id="tituloicones">Github</p>
     </a></li>
     <li><a href="https://alanchristiangoncalvesferreiraa.tumblr.com/" target="_blank" class="icon-tumblr-1" alt="Tumblr">
     <p id="tituloicones">Tumblr</p>
     </a></li>
-    <li><a href="https://alanchristiangoncalvesferreiraa.tumblr.com/" target="_blank" class="icon-blogger-1" alt="Blogger">
+    <li><a href="https://alanchristiangoncalvesferreira.blogspot.com/" target="_blank" class="icon-blogger-1" alt="Blogger">
     <p id="tituloicones">Blogger</p>
     </a></li>
   </ul>
