@@ -18,11 +18,18 @@
         <link href="fontello.css" rel="stylesheet" type="text/css" media="screen">
 <link href="fontello-codes.css" rel="stylesheet" type="text/css" media="screen">
 <link href="fontbraile.css" rel="stylesheet" type="text/css" media="screen">
+<link href="fontello-embedded.css" rel="stylesheet" type="text/css" media="screen">
+
+
         <script type="application/javascript" src="jquery-1.7.2.min.js" ></script>
         <script type="application/javascript" src="chamadas.js" ></script>
         <script type="application/javascript" src="jquery.csb.min" ></script>
         <script type="application/javascript" src="angular.min.js" ></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+       <script src="script.js"></script>
+        <script src="https://kit.fontawesome.com/348f2b4683.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="styleinstagram.css">
+        
         <script type="text/javascript">
 		$(document).ready(function() {
 				var $elem = $('#scroll');

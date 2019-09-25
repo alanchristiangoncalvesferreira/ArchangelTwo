@@ -109,6 +109,7 @@ function caller(n){
 	case 7: t="linkedin.php" ;break;
 	case 8: t="graduacao.php" ;break;
 	
+	
 	}
 	
   httpreq=new XMLHttpRequest();	
@@ -250,3 +251,5 @@ window.addEventListener("load", function(){
 	  
 	  
 	  }); 
+	  
+	  
