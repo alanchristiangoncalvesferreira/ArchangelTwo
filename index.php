@@ -44,19 +44,7 @@
         </head>
 
         <body>
-         
-			
-
-         <div id="loadapre">
-            
-             <div id="olho1"></div>
-       
-             
-             <div id="backgroundolhomaster" onMouseOver="olho();"></div>
-               </div>
-             <style>#loadapre{width:785px; height:980px; background:black;
-	position:absolute;
-    z-index:1000;left:282px; margin:0 auto; }  </style>
+        
         <div id="wrap">
         
       
