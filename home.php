@@ -41,12 +41,14 @@
 #home ul{width:514px; height:370px;  
     margin: 18px;
     padding: 0;}
-#home ul li{ width:80px; height:80px;     background-color: rgba(0, 223, 255, 0.66);
+#home ul li{ width:80px; height:80px; 
+ background: rgb(13,255,224);
+    background: linear-gradient(90deg, rgb(16, 164, 234) 0%, rgb(161, 230, 226) 47%, rgb(13, 146, 173) 100%);
     float: left;
     margin: 10px;
     list-style: none;border: solid 1px #ef0000;
     border-radius: 5px;}
-#home li a {font-size: 52px; text-decoration:none;color: rgba(255, 0, 0, 0.87);}	
+#home li a {font-size: 52px; text-decoration:none;color: rgba(255, 0, 0, 0.69);}	
 #tituloicones{    text-align: center;
     font-size: 15px;
     padding: 0px;
