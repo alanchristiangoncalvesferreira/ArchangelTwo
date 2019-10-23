@@ -40,7 +40,11 @@
     <p id="tituloicones">Instagram</p>
     </a></li>
   </ul>
+  
+ 
 </div>
+
+
 <style>
 #home ul{width:514px; height:370px;  
     margin: 18px;

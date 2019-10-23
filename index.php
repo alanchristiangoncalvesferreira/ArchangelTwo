@@ -68,6 +68,7 @@
                 <li id="bntindex" onClick="ft();"><a href="javascript:caller(0)" alt="Home" ><img src="image/bnttela.png" id="bntindeximg"/></a></li>
               
                 <li  id="partnership"><a href="Curriculum.pdf" target="_blank" alt="currículum">Currículum</a></li>
+                
               </ul>
             </nav>
           </header>
@@ -279,10 +280,11 @@ list-style: none;}
   <ul style="
 top: 1px;left:29px;">
   
-    <li>  </li>
     <li> <a href="javascript:caller(2)" id="direitos" class=" icon-copyright"></a> </li>
-    <li>  </li>
-    
+    <li><div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v4.0&appId=334113046934160&autoLogAppEvents=1"></script>
+
+<div class="fb-like" data-href="https://archangeltwo.herokuapp.com/" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div></li>
   </ul>
   <div id="bntFp"> 
     </div>
