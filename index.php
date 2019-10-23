@@ -44,10 +44,9 @@
         </head>
 
         <body>
-          <script>
+         
 			
- 
-			</script>
+
          <div id="loadapre">
             
              <div id="olho1"></div>
@@ -55,9 +54,9 @@
              
              <div id="backgroundolhomaster" onMouseOver="olho();"></div>
                </div>
-             <style>#loadapre{width:785px; height:700px; background:black;
-	position: fixed;
-    z-index:1000;top:1px; }  </style>
+             <style>#loadapre{width:785px; height:980px; background:black;
+	position:absolute;
+    z-index:1000;left:282px; margin:0 auto; }  </style>
         <div id="wrap">
         
       
@@ -142,7 +141,7 @@ list-style: none;}
     width: 33px;
     height: 28px;
     margin-left: 146px;
-    margin-top: 176px;
+    margin-top: 177px;
     cursor: pointer;
     border-radius: 50%;
     text-align: center;
@@ -171,7 +170,7 @@ list-style: none;}
 
 #mapa {
     margin-top: 78px;
-    position: absolute;
+    position: relative;
     left: 160px;
     font-size: 78.6%;
     font-weight: bold;
@@ -284,8 +283,8 @@ list-style: none;}
             </div>
             
             
-            <div id="privabntfo" class="bntcima"> <a class=" icon-police" id="police"> </a> </div>
-            <div id="priva" class="bntbaixo"> <a id="police2" class="icon-police"> </a> </div>
+            <div id="privabntfo" class="bntcima"> <a class="  icon-eject-2" id="police"> </a> </div>
+            <div id="priva" class="bntbaixo"> <a id="police2" class=" icon-eject-2" style="color:#F00;"> </a> </div>
             </div>
             <div id="mapa" style="width: 380px;">
   

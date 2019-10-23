@@ -10,6 +10,7 @@ body {
 	max-width: 783px;
 	overflow: hidden;
 	background-color: #000;
+	margin: 0 auto;
 }
 header, footer {
 	width: 783px;
@@ -28,9 +29,9 @@ header {
 	height: 25px;
 	float: left;
 	width: 346px;
-	top: 278px;
-	left: 221px;
-	position: absolute;
+	top: 100px;
+    left: 221px;
+    position: relative;
 }
 #navup ul {
 	width: 350px;
@@ -68,9 +69,9 @@ top: 0px;}
 #masterpicture {
 	width: 200px;
 	height: 171px;
-	top: 165px;
-	left: 15px;
-	position: absolute;
+	    top: 144px;
+    left: 7px;
+	position:relative;
 	display: block;
 	background-image: url(image/masterpicture.png);
 	background-repeat: no-repeat;

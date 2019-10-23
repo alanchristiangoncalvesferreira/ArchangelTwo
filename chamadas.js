@@ -225,7 +225,7 @@ window.addEventListener("load", function(){
             
     var loadapre= document.getElementById("loadapre");
 	document.body.removeChild(loadapre);
-	    }, 8000);
+	    }, 4000);
 		
 		
 	
