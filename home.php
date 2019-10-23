@@ -43,7 +43,7 @@
     padding: 0;}
 #home ul li{ width:80px; height:80px; 
  background: rgb(13,255,224);
-    background: linear-gradient(90deg, rgb(16, 164, 234) 0%, rgb(161, 230, 226) 47%, rgb(13, 146, 173) 100%);
+    background: linear-gradient(63deg, rgb(16, 164, 234) 0%, rgb(161, 230, 226) 47%, rgb(13, 146, 173) 100%);
     float: left;
     margin: 10px;
     list-style: none;border: solid 1px #ef0000;
