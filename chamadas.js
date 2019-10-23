@@ -107,7 +107,7 @@ function caller(n){
 	case 5: t="perfil.php" ;break;
 	case 6: t="videos.php" ;break;
 	case 7: t="linkedin.php" ;break;
-	case 8: t="graduacao.php" ;break;
+	
 	
 	
 	}
@@ -252,4 +252,4 @@ window.addEventListener("load", function(){
 	  
 	  }); 
 	  
-	  
+

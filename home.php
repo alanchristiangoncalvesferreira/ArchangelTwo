@@ -2,9 +2,7 @@
 <div id="home" onLoad="datacao()">
 
   <ul>
-    <li ><a href="javascript:caller(8)" class="icon-graduation-cap-1" alt="Graduação">
-      <p id="tituloicones">Graduação</p>
-      </a></li>
+  
        <li ><a href="javascript:caller(5)" class=" icon-user-1" alt="Perfil">
       <p id="tituloicones">Perfil</p>
       </a></li>

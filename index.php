@@ -101,7 +101,7 @@ height: 208px;
 float: right;
 position: absolute;
 margin: -65px 0 0 411px;
-z-index:5;
+  z-index: 12;
 }
 
           #controler ul{width: 132px;
@@ -217,7 +217,7 @@ list-style: none;}
     height: 468px;
     background: rgba(0, 204, 255, 0.87);
     position: absolute;
-    left: 525px;
+    left: 793px;
     top: 461px;
 	
     
