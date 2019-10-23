@@ -1,10 +1,17 @@
+<style>
+.iconepartnership{width:100%;}
 
+</style>
 <div id="home" onLoad="datacao()">
 
   <ul>
   
        <li ><a href="javascript:caller(5)" class=" icon-user-1" alt="Perfil">
       <p id="tituloicones">Perfil</p>
+      </a></li>
+       <li ><a href="javascript:caller(1)"  alt="Perfil">
+       <img src="image/Icon-Partnership.png" alt="icone-partnership" class="iconepartnership" />
+      <p id="tituloicones" style="margin-top: -15px;">Partnership</p>
       </a></li>
     <li ><a href="javascript:caller(6)" class="icon-video" alt="Vídeos">
       <p id="tituloicones">Vídeos</p>

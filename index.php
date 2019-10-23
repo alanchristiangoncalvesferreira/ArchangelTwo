@@ -66,7 +66,7 @@
            
               <ul>
                 <li id="bntindex" onClick="ft();"><a href="javascript:caller(0)" alt="Home" ><img src="image/bnttela.png" id="bntindeximg"/></a></li>
-                <li  id="partnership"><a href="javascript:caller(1)" alt="partnership">Partnership |</a></li>
+              
                 <li  id="partnership"><a href="Curriculum.pdf" target="_blank" alt="currículum">Currículum</a></li>
               </ul>
             </nav>
