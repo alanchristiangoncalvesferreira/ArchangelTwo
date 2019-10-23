@@ -477,7 +477,7 @@ left: 676px;
 	left: 483px;
 }
 .perfil {
-	width: 22%;
+	width: 21%;
 
 top: -42px;
 float: left;
@@ -500,7 +500,7 @@ margin: 8px 10px 10px 10px;
 .titulo {
 	font-size: 19px;
 	font-family: tahoma;
-	color:#09F;
+	color:red;
 	left: 10px;
 	position: relative;
 }
@@ -548,13 +548,16 @@ text-align: center;
 #bloco2 li > a {font-size: 24px;
 text-align: center;
 color: rgba(255, 0, 0, 0.87);}
-#conteudo{width: 544px;
+#conteudo{    width: 544px;
     height: 326px;
     position: relative;
     margin: 0 0 0 46px;
-    color: #39F;
+    color: #002d54;
     font-size: 14px;
-    background: #68b3c0;}
+    background: #68b3c0;
+    display: flow-root;}
+#conteudo h1{text-align:center;font-family: tahoma;}	
+#conteudo p{margin: 0 0 0 10px;font-family: tahoma;}
 #figure{height: 114px;
     background: #002d54;
     width: 92%;
