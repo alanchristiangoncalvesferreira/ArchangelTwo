@@ -56,6 +56,10 @@
     margin: 10px;
     list-style: none;border: solid 1px #ef0000;
     border-radius: 5px;}
+#home ul li:hover{background: rgb(13,255,224);
+    background: linear-gradient(3deg, rgb(16, 164, 234) 0%, rgb(161, 230, 226) 47%, rgb(13, 146, 173) 100%);}
+	
+	
 #home li a {font-size: 52px; text-decoration:none;color: rgba(255, 0, 0, 0.69);}	
 #tituloicones{    text-align: center;
     font-size: 15px;
