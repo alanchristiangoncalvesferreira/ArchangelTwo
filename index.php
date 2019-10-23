@@ -217,7 +217,7 @@ list-style: none;}
     height: 468px;
     background: rgba(0, 204, 255, 0.87);
     position: absolute;
-    left: 793px;
+    left: 505px;
     top: 461px;
 	
     
