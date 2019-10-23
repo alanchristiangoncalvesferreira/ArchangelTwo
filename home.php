@@ -1,7 +1,4 @@
-<style>
-.iconepartnership{width:100%;}
 
-</style>
 <div id="home" onLoad="datacao()">
 
   <ul>
@@ -54,5 +51,9 @@
     font-size: 15px;
     padding: 0px;
     margin-top: 3px;
-    text-decoration: none;}
+    text-decoration: none;
+	    font-weight: bold;
+	}
+.iconepartnership{width:100%;}	
+	
 </style>
