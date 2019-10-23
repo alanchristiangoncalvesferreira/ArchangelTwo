@@ -10,6 +10,10 @@
        <img src="image/Icon-Partnership.png" alt="icone-partnership" class="iconepartnership" />
       <p id="tituloicones" style="margin-top: -15px;">Partnership</p>
       </a></li>
+      <li ><a href="Curriculum.pdf" class="icon-clipboard-1" alt="Currículo" target="_blank">
+      <p id="tituloicones">Currículo</p>
+      </a></li>
+      
     <li ><a href="javascript:caller(6)" class="icon-video" alt="Vídeos">
       <p id="tituloicones">Vídeos</p>
       </a></li>
