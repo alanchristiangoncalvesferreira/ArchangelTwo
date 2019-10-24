@@ -248,6 +248,7 @@ list-style: none;}
           </style>
           <div id="abamenu" class="abamenuhover">
           <ul>
+          <li><a href="javascript:caller(0)" alt="Home" ><div id="iconesmenu" class="icon-home-3"></div><p>HOME</p></a></li>
           <li><a href="javascript:caller(3)" ><div id="iconesmenu">#</div><p>HASHTAG</p></a></li>
           <li><div id="iconesmenu"></div><p></p></a></li>
           <li><div id="iconesmenu"></div><p></p></a></li>
