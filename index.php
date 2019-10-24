@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
         <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <!-- Global site tag (gtag.js) -S Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-77245717-1"></script>
         <script>
   window.dataLayer = window.dataLayer || [];
@@ -18,8 +18,9 @@
         <link href="fontello-codes.css" rel="stylesheet" type="text/css" media="screen">
         <link href="fontbraile.css" rel="stylesheet" type="text/css" media="screen">
         <link href="fontello-embedded.css" rel="stylesheet" type="text/css" media="screen">
-        <script type="application/javascript" src="jquery-1.7.2.min.js" ></script>
-        <script type="application/javascript" src="chamadas.js" ></script>
+        <script type="text/javascript" src="jquery-3.4.1.min.js" ></script>
+        <script type="text/javascript" src="jquery-1.8.3.min.js" ></script>
+        <script type="text/javascript" src="chamadas.js" ></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <link rel="stylesheet" href="styleinstagram.css">
         <script type="text/javascript">
@@ -29,7 +30,12 @@
 				window.csb = $elem.customScrollBar();
 			});
 		
-	
+ 
+
+
+
+
+
 		
             
         </script>

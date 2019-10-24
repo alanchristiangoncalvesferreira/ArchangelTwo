@@ -95,7 +95,6 @@ dataType: 'html',
 
 
 
-
 function caller(n){
 	
 	switch(n){
@@ -253,4 +252,18 @@ window.addEventListener("load", function(){
 	  
 	  }); 
 	  
+	  
+		  $(document).ready(function(){
+  $("#bnt").click(function(){
+    $("#conteudo").load('perfildados.php');
+  });
+});	  
+
+$.ajaxSetup({cache: false});
+
+
+
+
+
+
 

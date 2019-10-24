@@ -1,7 +1,8 @@
 
-<div id="home" onLoad="datacao()">
 
-  <ul>
+<div id="home" >
+ 
+  <ul >
   
        <li ><a href="javascript:caller(5)" class=" icon-user-1" alt="Perfil">
       <p id="tituloicones">Perfil</p>
@@ -48,13 +49,17 @@
        <li><a href="https://www.instagram.com/alanchristiangoncalvesferreira/" class="icon-instagram-5" target="_blank" alt="Instagram">
     <p id="tituloicones">Instagram</p>
     </a></li>
+    
+    
   </ul>
-  
+ 
  
 </div>
 
 
 <style>
+
+
 #home ul{width:514px; height:370px;  
     margin: 18px;
     padding: 0;}
@@ -70,6 +75,9 @@
 	
 	
 #home li a {font-size: 52px; text-decoration:none;color: rgba(255, 0, 0, 0.69);}	
+
+
+
 #tituloicones{    text-align: center;
     font-size: 15px;
     padding: 0px;
