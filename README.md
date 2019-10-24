@@ -4,4 +4,4 @@ App para pagelet Facebook
 
 Direitos autorais Alan Christian Gonçalves Ferreira 
 
-Licensa proibido o uso para fins comerciais 
+Licensa proibida a venda .
