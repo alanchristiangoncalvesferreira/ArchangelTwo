@@ -1,35 +1,27 @@
 <!doctype html>
 <html>
         <head>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77245717-1"></script>
-<script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-77245717-1"></script>
+        <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-77245717-1');
 </script>
-
         <meta charset="utf-8">
         <meta name="google-site-verification" content="xQ26Pgg3-ISV2IHaPsyZX2v3dXkLMzpUXH5Imz80aw8" />
-        <title>Curriculum Alan Christian </title>
+        <title>Curriculum Alan Christian</title>
         <link href="style.css" rel="stylesheet" type="text/css" media="all">
         <link href="fontello.css" rel="stylesheet" type="text/css" media="screen">
-<link href="fontello-codes.css" rel="stylesheet" type="text/css" media="screen">
-<link href="fontbraile.css" rel="stylesheet" type="text/css" media="screen">
-<link href="fontello-embedded.css" rel="stylesheet" type="text/css" media="screen">
-
-
+        <link href="fontello-codes.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="fontbraile.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="fontello-embedded.css" rel="stylesheet" type="text/css" media="screen">
         <script type="application/javascript" src="jquery-1.7.2.min.js" ></script>
         <script type="application/javascript" src="chamadas.js" ></script>
-        <script type="application/javascript" src="jquery.csb.min" ></script>
-        <script type="application/javascript" src="angular.min.js" ></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-       <script src="script.js"></script>
-        <script src="https://kit.fontawesome.com/348f2b4683.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="styleinstagram.css">
-        
         <script type="text/javascript">
 		$(document).ready(function() {
 				var $elem = $('#scroll');
@@ -44,31 +36,20 @@
         </head>
 
         <body>
-        
         <div id="wrap">
-        
-      
           <header >
-  
             <div id="masterpicture">
               <ul>
                 <li class="usermaster" alt="Facebook Alan Christian Gonçalves Ferreira" id="bntpiramide1"><a href="#"alt="Facebook Alan Christian Gonçalves Ferreira" ></a></li>
                 <li class="userfacebook" alt="Facebook Alan Christian Gonçalves Ferreira" id="bntpiramide2"><a href="#"alt="Facebook Alan Christian Gonçalves Ferreira" ></a></li>
-                <li class="usergoogle" alt="Googel Alan Christian Gonçalves Ferreira" id="bntpiramide3"><a href="#" alt="Googel Alan Christian Gonçalves Ferreira"  id="bntpiramide3"></a></li> 
+                <li class="usergoogle" alt="Googel Alan Christian Gonçalves Ferreira" id="bntpiramide3"><a href="#" alt="Googel Alan Christian Gonçalves Ferreira"  id="bntpiramide3"></a></li>
               </ul>
-             
-              
-             <div id="FotoPerfil">
-             
-             </div> 
+              <div id="FotoPerfil"> </div>
             </div>
             <nav id="navup">
-           
               <ul>
                 <li id="bntindex" onClick="ft();"><a href="javascript:caller(0)" alt="Home" ><img src="image/bnttela.png" id="bntindeximg"/></a></li>
-              
                 <li  id="partnership"><a href="Curriculum.pdf" target="_blank" alt="currículum">Currículum</a></li>
-                
               </ul>
             </nav>
           </header>
@@ -76,8 +57,6 @@
             <div id="scroll" class="csb-area" style="position: relative;">
               <div class="csb-wrap" style="right: -17px; padding: 20px;" id="main">
                 <ul >
-                
-               
                 </ul>
               </div>
               <div class="csb-track" style="right: 0px;">
@@ -87,13 +66,10 @@
           </aside>
           <section>
             <div id="top"></div>
-            <div id="intro" onMouseOver="sistema()">
-          
-          
-            </div>
+            <div id="intro" onMouseOver="sistema()"> </div>
           </section>
           <footer>
-          <style>
+            <style>
 		  
 		
 #controler{background-image:url(image/controler.png); background-repeat:no-repeat; 
@@ -246,53 +222,69 @@ list-style: none;}
 .abamenuhover{z-index:-1;}
 #iconesmenu{width:50px; height:38px;background: rgba(0, 51, 255, 0.55);font-size: 27px;float: left;}
           </style>
-          <div id="abamenu" class="abamenuhover">
-          <ul>
-          <li><a href="javascript:caller(0)" alt="Home" ><div id="iconesmenu" class="icon-home-3"></div><p>HOME</p></a></li>
-          <li><a href="javascript:caller(3)" ><div id="iconesmenu">#</div><p>HASHTAG</p></a></li>
-          <li><div id="iconesmenu"></div><p></p></a></li>
-          <li><div id="iconesmenu"></div><p></p></a></li>
-          <li><div id="iconesmenu"></div><p></p></a></li>
-          <li><div id="iconesmenu"></div><p></p></a></li>
-          <li><div id="iconesmenu"></div><p></p></a></li>
-          <li><div id="iconesmenu"></div><p></p></a></li>
-          </ul>
-          </div>
-            <div id="controler"> 
-            <ul>
-            <li></li><li></li>
-            <li></li><li></li>
-            </ul>
-            <div id="menuiniciar">
-            <div id="menuitop" class="top" >
-           <img src="image/menuiniciarbasic.png"  />
-           </div>
-           <div id="menuihover" class="down">
-           <img src="image/menuiniciarbasichover.png"  />
-           </div>
+            <div id="abamenu" class="abamenuhover">
+              <ul>
+                <li><a href="javascript:caller(0)" alt="Home" >
+                  <div id="iconesmenu" class="icon-home-3"></div>
+                  <p>HOME</p>
+                  </a></li>
+                <li><a href="javascript:caller(3)" >
+                  <div id="iconesmenu">#</div>
+                  <p>HASHTAG</p>
+                  </a></li>
+                <li>
+                  <div id="iconesmenu"></div>
+                  <p></p>
+                  </a></li>
+                <li>
+                  <div id="iconesmenu"></div>
+                  <p></p>
+                  </a></li>
+                <li>
+                  <div id="iconesmenu"></div>
+                  <p></p>
+                  </a></li>
+                <li>
+                  <div id="iconesmenu"></div>
+                  <p></p>
+                  </a></li>
+                <li>
+                  <div id="iconesmenu"></div>
+                  <p></p>
+                  </a></li>
+                <li>
+                  <div id="iconesmenu"></div>
+                  <p></p>
+                  </a></li>
+              </ul>
             </div>
-            
-            
-            <div id="privabntfo" class="bntcima"> <a class="  icon-eject-2" id="police"> </a> </div>
-            <div id="priva" class="bntbaixo"> <a id="police2" class=" icon-eject-2" style="color:#F00;"> </a> </div>
+            <div id="controler">
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul>
+              <div id="menuiniciar">
+                <div id="menuitop" class="top" > <img src="image/menuiniciarbasic.png"  /> </div>
+                <div id="menuihover" class="down"> <img src="image/menuiniciarbasichover.png"  /> </div>
+              </div>
+              <div id="privabntfo" class="bntcima"> <a class="  icon-eject-2" id="police"> </a> </div>
+              <div id="priva" class="bntbaixo"> <a id="police2" class=" icon-eject-2" style="color:#F00;"> </a> </div>
             </div>
             <div id="mapa" style="width: 380px;">
-  
-  <ul style="
+              <ul style="
 top: 1px;left:29px;">
-  
-    <li> <a href="javascript:caller(2)" id="direitos" class=" icon-copyright"></a> </li>
-    <li><div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v4.0&appId=334113046934160&autoLogAppEvents=1"></script>
-
-<div class="fb-like" data-href="https://archangeltwo.herokuapp.com/" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div></li>
-  </ul>
-  <div id="bntFp"> 
-    </div>
-</div>
-  
+                <li> <a href="javascript:caller(2)" id="direitos" class=" icon-copyright"></a> </li>
+                <li>
+                  <div id="fb-root"></div>
+                  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v4.0&appId=334113046934160&autoLogAppEvents=1"></script>
+                  <div class="fb-like" data-href="https://archangeltwo.herokuapp.com/" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+                </li>
+              </ul>
+              <div id="bntFp"> </div>
+            </div>
           </footer>
-        
         </div>
 </body>
 </html>
