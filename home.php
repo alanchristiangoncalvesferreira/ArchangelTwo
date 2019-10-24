@@ -17,6 +17,15 @@
     <li ><a href="javascript:caller(6)" class="icon-video" alt="Vídeos">
       <p id="tituloicones">Vídeos</p>
       </a></li>
+     <li ><a href="#" class="icon-picture-5" alt="Galeria" style="margin: 0 0 0 -6px;">
+      <p id="tituloicones">Galeria</p>
+      </a></li>  
+      <li ><a href="#" class=" icon-folder-open-2" alt="Documentos">
+      <p id="tituloicones">Documentos</p>
+      </a></li> 
+       <li ><a href="#" class="icon-chat-6" alt="Contatos">
+      <p id="tituloicones">Contato</p>
+      </a></li>
     <li><a href="javascript:caller(7)" class="icon-linkedin-4" alt="Linkedin">
     <p id="tituloicones">Linkedin</p>
     </a></li>
