@@ -703,8 +703,13 @@ top: 90px;
 background-repeat: no-repeat;
 background-size: 101%;}
 
-.titulodois{ font-size: 28px;
-    color: red;
+.titulodois{ 
+font-size: 28px;
+    color: #1c1e21;
     font-family: tahoma;
     text-align: center;
-    border-bottom: 1px solid red;}
+    border-bottom: 1px solid red;
+    background: red;
+    width: 206px;
+    margin: -10px 0 0 39px;
+}
