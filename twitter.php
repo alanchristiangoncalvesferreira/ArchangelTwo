@@ -1,1 +1,0 @@
-<a class="twitter-timeline" data-width="600" data-height="500" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/alanchristianf?ref_src=twsrc%5Etfw">Tweets by alanchristianf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
