@@ -103,10 +103,11 @@ function caller(n){
 	case 1: t=" partnership.php" ;break;
 	case 2: t="direitosautorais.php" ;break;
 	case 3: t="hashtag.php" ;break;
-	case 4: t="twitter.php" ;break;
+	case 4: t="contato.php" ;break;
 	case 5: t="perfil.php" ;break;
 	case 6: t="videos.php" ;break;
-	case 7: t="linkedin.php" ;break;
+	case 7: t="galeria.php" ;break;
+	case 8: t="documentos.php" ;break;
 	
 	
 	

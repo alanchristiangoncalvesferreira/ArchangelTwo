@@ -17,20 +17,20 @@
     <li ><a href="javascript:caller(6)" class="icon-video" alt="Vídeos">
       <p id="tituloicones">Vídeos</p>
       </a></li>
-     <li ><a href="#" class="icon-picture-5" alt="Galeria" style="margin: 0 0 0 -6px;">
+     <li ><a href="javascript:caller(7)" class="icon-picture-5" alt="Galeria" style="margin: 0 0 0 -6px;">
       <p id="tituloicones">Galeria</p>
       </a></li>  
-      <li ><a href="#" class=" icon-folder-open-2" alt="Documentos">
+      <li ><a href="javascript:caller(8)" class=" icon-folder-open-2" alt="Documentos">
       <p id="tituloicones">Documentos</p>
       </a></li> 
-       <li ><a href="#" class="icon-chat-6" alt="Contatos">
+       <li ><a href="javascript:caller(4)" class="icon-chat-6" alt="Contatos">
       <p id="tituloicones">Contato</p>
       </a></li>
-    <li><a href="javascript:caller(7)" class="icon-linkedin-4" alt="Linkedin">
+    <li><a href="https://www.linkedin.com/in/alanchristiangoncalvesferreira/" class="icon-linkedin-4" alt="Linkedin" target="_blank">
     <p id="tituloicones">Linkedin</p>
     </a></li>
     
-    <li><a href="javascript:caller(4)" class="icon-twitter-4" alt="Twitter">
+    <li><a href="https://twitter.com/alanchristianf" class="icon-twitter-4" alt="Twitter" target="_blank">
     <p id="tituloicones">Twitter</p>
     </a></li>
      <li><a href="https://vk.com/alanchristiangoncalvesferreira" class="icon-vk" target="_blank" alt="VK">
