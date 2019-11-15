@@ -13,16 +13,6 @@
       </a></li>
       <li ><a href="Curriculum.pdf" class="icon-clipboard-1" alt="Currículo" target="_blank">
       <p id="tituloicones">Currículo</p>
-      </a></li>
-      
-    <li ><a href="javascript:caller(6)" class="icon-video" alt="Vídeos">
-      <p id="tituloicones">Vídeos</p>
-      </a></li>
-     <li ><a href="javascript:caller(7)" class="icon-picture-5" alt="Galeria" style="margin: 0 0 0 -6px;">
-      <p id="tituloicones">Galeria</p>
-      </a></li>  
-      <li ><a href="javascript:caller(8)" class=" icon-folder-open-2" alt="Documentos">
-      <p id="tituloicones">Documentos</p>
       </a></li> 
        <li ><a href="javascript:caller(4)" class="icon-chat-6" alt="Contatos">
       <p id="tituloicones">Contato</p>
@@ -30,25 +20,15 @@
     <li><a href="https://www.linkedin.com/in/alanchristiangoncalvesferreira/" class="icon-linkedin-4" alt="Linkedin" target="_blank">
     <p id="tituloicones">Linkedin</p>
     </a></li>
-    
-    <li><a href="https://twitter.com/alanchristianf" class="icon-twitter-4" alt="Twitter" target="_blank">
-    <p id="tituloicones">Twitter</p>
-    </a></li>
-     <li><a href="https://vk.com/alanchristiangoncalvesferreira" class="icon-vk" target="_blank" alt="VK">
-    <p id="tituloicones">VK</p>
-    </a></li>
+     
     <li><a href="https://github.com/AlanChristianGoncalvesFerreira" target="_blank" class="icon-github-2" alt="Github">
     <p id="tituloicones">Github</p>
     </a></li>
-    <li><a href="https://alanchristiangoncalvesferreiraa.tumblr.com/" target="_blank" class="icon-tumblr-1" alt="Tumblr">
-    <p id="tituloicones">Tumblr</p>
-    </a></li>
+ 
     <li><a href="https://alanchristiangoncalvesferreira.blogspot.com/" target="_blank" class="icon-blogger-1" alt="Blogger">
     <p id="tituloicones">Blogger</p>
     </a></li>
-       <li><a href="https://www.instagram.com/alanchristiangoncalvesferreira/" class="icon-instagram-5" target="_blank" alt="Instagram">
-    <p id="tituloicones">Instagram</p>
-    </a></li>
+       
     
     
   </ul>
