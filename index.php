@@ -188,9 +188,10 @@ list-style: none;}
     left: 301px;
     top: 97px;}
 #menuitop	{position: absolute;
-    top: 3px; cursor:pointer;}
+    top: 3px; left: 5px;cursor:pointer;}
 #menuihover{position: absolute;
     top: 3px;
+	    left: 5px;
 	cursor:pointer;
     }	
 .top{z-index:0;}
