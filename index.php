@@ -199,7 +199,7 @@ list-style: none;}
 #abamenu{ 
     width: 200px;
     height: 468px;
-    background: rgba(0, 204, 255, 0.87);
+    background: rgb(107 138 91 / 87%);
     position: absolute;
     margin-left: 516px;
     top: 461px;
@@ -227,7 +227,7 @@ list-style: none;}
     margin: 0;}	
 .abamenutop{z-index:20;}
 .abamenuhover{z-index:-1;}
-#iconesmenu{width:50px; height:38px;background: rgba(0, 51, 255, 0.55);font-size: 27px;float: left;}
+#iconesmenu{width:50px; height:38px;background: rgb(45 70 41 / 55%);font-size: 27px;float: left;}
           </style>
             <div id="abamenu" class="abamenuhover">
               <ul>
