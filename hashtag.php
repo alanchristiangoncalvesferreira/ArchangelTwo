@@ -7,6 +7,8 @@
     padding: 2px;
 	float: left;
     margin: 5px;
+	font-weight: 900;
+    font-family: tahoma;
 	}
 </style>
 <div id="hashtag">
