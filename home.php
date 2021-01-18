@@ -29,7 +29,14 @@
     <p id="tituloicones">Blogger</p>
     </a></li>
        
+       <li><a href="https://www.behance.net/alanchristiangf" target="_blank" class="icon-behance" alt="Behance">
+    <p id="tituloicones">Behance</p>
+    </a></li>
     
+     <li><a href="https://www.artstation.com/alanchristiangoncalvesferreira" target="_blank"  alt="Artstation">
+     <img src="image/Icon-Artstation.png" alt="icone-arstation" class="iconepartnership" />
+    <p id="tituloicones" style="margin-top: -15px;">Arstatation</p>
+    </a></li>
     
   </ul>
  
