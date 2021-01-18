@@ -117,7 +117,7 @@ function caller(n){
 	  httpreq.onreadystatechange=function(){
 		  
 		
-		if(httpreq.readyState==4){
+		if(httpreq.readyState==6){
 			  document.getElementById('intro').innerHTML=httpreq.responseText;
 		  
 		   

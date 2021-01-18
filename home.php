@@ -17,6 +17,9 @@
        <li ><a href="javascript:caller(4)" class="icon-chat-6" alt="Contatos">
       <p id="tituloicones">Contato</p>
       </a></li>
+          <li ><a href="javascript:caller(6)" class="icon-folder-open-2" alt="Projetos ">
+      <p id="tituloicones">Projetos </p>
+      </a></li>
     <li><a href="https://www.linkedin.com/in/alanchristiangoncalvesferreira/" class="icon-linkedin-4" alt="Linkedin" target="_blank">
     <p id="tituloicones">Linkedin</p>
     </a></li>
