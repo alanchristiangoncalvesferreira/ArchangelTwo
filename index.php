@@ -29,15 +29,7 @@
 				/* CSB returns an object, for this demo, store it in the window context */
 				window.csb = $elem.customScrollBar();
 			});
-		
- 
-
-
-
-
-
-		
-            
+		            
         </script>
         </head>
 

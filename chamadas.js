@@ -39,6 +39,10 @@ geral = function(){
 	
 };
 
+
+
+
+
 //Funções de chamada de arquivo via Ajax 
 
 $(document).ready(function(){
@@ -94,7 +98,6 @@ dataType: 'html',
 
 
 
-
 function caller(n){
 	
 	switch(n){
@@ -117,7 +120,7 @@ function caller(n){
 	  httpreq.onreadystatechange=function(){
 		  
 		
-		if(httpreq.readyState==6){
+		if(httpreq.readyState==4){
 			  document.getElementById('intro').innerHTML=httpreq.responseText;
 		  
 		   
@@ -264,6 +267,6 @@ $.ajaxSetup({cache: false});
 
 
 
-
+ 
 
 
